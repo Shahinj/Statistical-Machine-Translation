@@ -1,0 +1,126 @@
+
+Discussion :
+
+{Enter your intriguing discussion (explaining observations/results) here}
+
+
+
+----------Evaluation START----------
+
+### Evaluating AM model: ### 
+
+### Training Size: 1000 ### 
+
+### Training Iterations: 10 ### 
+
+###################################### 
+
+BLEU scores with N-gram (n) = 1: 
+			                       Hansard 		                         Google 		                           Both 
+			            0.3045027713944123 		             0.1602690443371558 		            0.23238590786578406 
+
+BLEU scores with N-gram (n) = 2: 
+			                       Hansard 		                         Google 		                           Both 
+			          0.023903982555164915 		           0.015375953900940495 		           0.019639968228052706 
+
+BLEU scores with N-gram (n) = 3: 
+			                       Hansard 		                         Google 		                           Both 
+			                           0.0 		                            0.0 		                            0.0 
+
+
+
+### Evaluating AM model: ### 
+
+### Training Size: 1000 ### 
+
+### Training Iterations: 50 ### 
+
+###################################### 
+
+BLEU scores with N-gram (n) = 1: 
+			                       Hansard 		                         Google 		                           Both 
+			            0.3075796944713353 		               0.17850369857181 		             0.2430416965215727 
+
+BLEU scores with N-gram (n) = 2: 
+			                       Hansard 		                         Google 		                           Both 
+			          0.035910229043480436 		           0.020922955863192785 		            0.02841659245333661 
+
+BLEU scores with N-gram (n) = 3: 
+			                       Hansard 		                         Google 		                           Both 
+			                           0.0 		                            0.0 		                            0.0 
+
+
+
+### Evaluating AM model: ### 
+
+### Training Size: 1000 ### 
+
+### Training Iterations: 100 ### 
+
+###################################### 
+
+BLEU scores with N-gram (n) = 1: 
+			                       Hansard 		                         Google 		                           Both 
+			            0.3657328705006724 		            0.23658849853277097 		             0.3011606845167217 
+
+BLEU scores with N-gram (n) = 2: 
+			                       Hansard 		                         Google 		                           Both 
+			          0.039732344011880284 		           0.025595979092942315 		           0.032664161552411294 
+
+BLEU scores with N-gram (n) = 3: 
+			                       Hansard 		                         Google 		                           Both 
+			                           0.0 		                            0.0 		                            0.0 
+
+
+
+### Evaluating AM model: ### 
+
+### Training Size: 10000 ### 
+
+### Training Iterations: 10 ### 
+
+###################################### 
+
+BLEU scores with N-gram (n) = 1: 
+			                       Hansard 		                         Google 		                           Both 
+			           0.17600264407075553 		            0.14650880870075916 		            0.16125572638575733 
+
+BLEU scores with N-gram (n) = 2: 
+			                       Hansard 		                         Google 		                           Both 
+			          0.015375953900940495 		           0.014980834832918528 		            0.01517839436692951 
+
+BLEU scores with N-gram (n) = 3: 
+			                       Hansard 		                         Google 		                           Both 
+			                           0.0 		                            0.0 		                            0.0 
+
+
+
+### Evaluating AM model: ### 
+
+### Training Size: 10000 ### 
+
+### Training Iterations: 50 ### 
+
+###################################### 
+
+BLEU scores with N-gram (n) = 1: 
+			                       Hansard 		                         Google 		                           Both 
+			            0.1792873961264054 		            0.15601578297863128 		            0.16765158955251835 
+
+BLEU scores with N-gram (n) = 2: 
+			                       Hansard 		                         Google 		                           Both 
+			         0.0075592894601845435 		           0.013964415612388028 		           0.010761852536286287 
+
+BLEU scores with N-gram (n) = 3: 
+			                       Hansard 		                         Google 		                           Both 
+			                           0.0 		                            0.0 		                            0.0 
+
+
+
+### Evaluating AM model: ### 
+
+### Training Size: 10000 ### 
+
+### Training Iterations: 100 ### 
+
+###################################### 
